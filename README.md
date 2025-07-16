@@ -1,4 +1,5 @@
 Instructions:
+
 If you’re seeing this then congratulations! You just downloaded ghost swatters. Now I know you probably can’t wait to play this game but before you do it requires some setup. Fortunately it’s very easy just copy and paste the following commands into your terminal and then press the play button.
 Note: these commands should be used depending on your preferences and python virtual environment.
 
